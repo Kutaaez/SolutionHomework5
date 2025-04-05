@@ -14,6 +14,6 @@ public class RealEstateWebsite {
         potolok.uploadOrReplaceImage("almalinskyy.png");
         user2.logIn();
         potolok.uploadOrReplaceImage("almalinskyy.png");
-        potolok.displayFullImage();
+        potolok.displayThumbnail();
     }
 }
